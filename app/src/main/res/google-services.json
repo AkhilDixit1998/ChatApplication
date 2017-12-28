@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406381653046",
+    "firebase_url": "https://chatapp-1d3d6.firebaseio.com",
+    "project_id": "chatapp-1d3d6",
+    "storage_bucket": "chatapp-1d3d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406381653046:android:c17fdd8e1d8f3214",
+        "android_client_info": {
+          "package_name": "com.akhil.akhildixit.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406381653046-n0dus89mro08naeqnmm13vc81ju9o40c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyaG75lG8iF6GIgUvU2XymsbMMsH3rII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

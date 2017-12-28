@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.akhil.akhildixit.chat_app">
+
+
+    <item
+        android:id="@+id/action_uploadpic"
+        android:orderInCategory="1"
+        android:title="Upload Pic"
+        app:showAsAction="collapseActionView" />
+
+
+    <item
+        android:id="@+id/action_newgroup"
+        android:orderInCategory="100"
+        android:title="New group"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/action_newbroadcast"
+        android:orderInCategory="200"
+        android:title="New broadcast"
+        app:showAsAction="collapseActionView"
+        android:icon="@android:drawable/ic_dialog_info"/>
+
+    <item
+        android:id="@+id/action_whatsappweb"
+        android:orderInCategory="300"
+        android:title="WhatsApp Web"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_Starredmessages"
+        android:orderInCategory="400"
+        android:title="Starred messages"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="500"
+        android:title="Settings"
+        app:showAsAction="collapseActionView" />
+
+
+</menu>
