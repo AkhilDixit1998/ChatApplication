@@ -1,7 +1,7 @@
 # Let's Chat
 <br>
-The new age chatting application.The app allows you to connect to your friends and have a **private chat with them,allows you to update 
-profile picture and send and recieve files**. It is a platform for a local community to be able to reach out to each other.
+The new age chatting application.The app allows you to connect to your friends and have a  **private chat with them,allows you to update 
+profile picture and send and recieve files** . It is a platform for a local community to be able to reach out to each other.
 <br>
 ## Motivation
 I created this project in 2018 with the view that I wanted to have certain changes in the traditional chat applications. Before being able
