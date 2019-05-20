@@ -18,12 +18,12 @@ This project was made in android(JAVA).
 ## Screenshots:
 <br>
 
-<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/register.png" width="300" height="450">
+<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/register.png" width="300" height="450"> .
 <span width="50px"></span>
 <img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/login.png" width="300" height="450">
 <br>
-<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png" width="300" height="450">
-<br>
+<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png" width="300" height="450">  .
+<span width="50px"></span>
 <img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/personal%20chat.png" width="300" height="450">
 
 
