@@ -16,11 +16,11 @@ This project was made in android(JAVA).
 Screenshots:
 ![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/login.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/register.png)
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/personal%20chat.png)
 
 Technology and Library:
 This project is created for android platform and uses google firebase as the storage for chats,files and images.The chats are not stored
