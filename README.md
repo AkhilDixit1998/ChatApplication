@@ -14,7 +14,7 @@ Code Style:
 This project was made in android(JAVA).
 
 Screenshots:
-<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png" width="100" height=100")
+<img src="https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png" width="100" height="100")
 
 
 ![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/login.png)
