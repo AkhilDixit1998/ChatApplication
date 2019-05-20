@@ -14,7 +14,13 @@ Code Style:
 This project was made in android(JAVA).
 
 Screenshots:
+![alt text](https://github.com/AkhilDixit1998/ChatApplication/blob/master/chat%20app%20ss/chats.png)
 
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
+
+![alt text](http://url/to/img.png)
 
 Technology and Library:
 This project is created for android platform and uses google firebase as the storage for chats,files and images.The chats are not stored
